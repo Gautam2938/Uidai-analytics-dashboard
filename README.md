@@ -85,6 +85,17 @@ streamlit run app.py
 
 ---
 
+##Dataset
+
+Due to large file size, the dataset is not included in this repository.
+
+You can download it from:
+👉 Download Dataset
+
+After downloading, place the file in the project root directory before running the application.
+
+---
+
 ## 8. Performance Considerations
 
 * Designed for datasets with **25+ lakh rows**
