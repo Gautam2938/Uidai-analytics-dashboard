@@ -124,13 +124,16 @@ The dashboard is meant to **support decisions**, not impress with algorithms.
 
 ## 11. Screenshots / Demo
 
+### Population Forecast
+
 <p align="center">
   <img src="assets/Forecast.png" width="600"/>
 </p>
+
+### District Age Distribution Heatmap
 <p align="center">
   <img src="assets/Heatmap.png" width="600"/>
 </p>
-
 
 ---
 
